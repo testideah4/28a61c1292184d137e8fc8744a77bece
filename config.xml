@@ -3,7 +3,7 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "tu.yandex.app"
     versionCode = "10"
-    version     = "1.1.0">
+    version     = "1.2.0">
 
 <name>ТЕСТ. yandex.ru</name>
 
@@ -21,8 +21,6 @@
 <preference name='orientation' value='any' />
 
 <gap:plugin name='onesignal-cordova-plugin' spec='2.4.5' source='npm' />
-
-<preference name='windows-appx-target' value='8.1-win' />
 
 <preference name='android-build-tool' value='gradle' />
     <preference name="android-targetSdkVersion" value="28" />
