@@ -3,9 +3,9 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "tu.yandex.app"
     versionCode = "10"
-    version     = "1.2.0">
+    version     = "1.3.0">
 
-<name>ТЕСТ. yandex.ru</name>
+<name>yandex.ru</name>
 
 <description>
     Тестовое приложение
@@ -17,8 +17,6 @@
 <plugin name='cordova-plugin-inappbrowser' />
 
 <preference name='phonegap-version' value='cli-9.0.0' />
-
-<preference name='orientation' value='any' />
 
 <gap:plugin name='onesignal-cordova-plugin' spec='2.4.5' source='npm' />
 
